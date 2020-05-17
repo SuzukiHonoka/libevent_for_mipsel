@@ -1,0 +1,18 @@
+sample/https_client-hostcheck.o: sample/hostcheck.c sample/hostcheck.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/string.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/features.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/cdefs.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stddef.h
+
+sample/hostcheck.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/string.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/features.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/cdefs.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stddef.h:

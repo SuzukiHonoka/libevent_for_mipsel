@@ -1,0 +1,90 @@
+strlcpy.lo: strlcpy.c /usr/mipsel-linux-gnu/include/stdc-predef.h \
+ include/event2/event-config.h evconfig-private.h \
+ /usr/mipsel-linux-gnu/include/sys/types.h \
+ /usr/mipsel-linux-gnu/include/features.h \
+ /usr/mipsel-linux-gnu/include/sys/cdefs.h \
+ /usr/mipsel-linux-gnu/include/bits/wordsize.h \
+ /usr/mipsel-linux-gnu/include/sgidefs.h \
+ /usr/mipsel-linux-gnu/include/gnu/stubs.h \
+ /usr/mipsel-linux-gnu/include/gnu/stubs-o32_hard.h \
+ /usr/mipsel-linux-gnu/include/bits/types.h \
+ /usr/mipsel-linux-gnu/include/bits/typesizes.h \
+ /usr/mipsel-linux-gnu/include/time.h \
+ /usr/lib/gcc-cross/mipsel-linux-gnu/6/include/stddef.h \
+ /usr/mipsel-linux-gnu/include/endian.h \
+ /usr/mipsel-linux-gnu/include/bits/endian.h \
+ /usr/mipsel-linux-gnu/include/bits/byteswap.h \
+ /usr/mipsel-linux-gnu/include/bits/byteswap-16.h \
+ /usr/mipsel-linux-gnu/include/sys/select.h \
+ /usr/mipsel-linux-gnu/include/bits/select.h \
+ /usr/mipsel-linux-gnu/include/bits/sigset.h \
+ /usr/mipsel-linux-gnu/include/bits/time.h \
+ /usr/mipsel-linux-gnu/include/sys/sysmacros.h \
+ /usr/mipsel-linux-gnu/include/bits/pthreadtypes.h strlcpy-internal.h \
+ include/event2/visibility.h /usr/mipsel-linux-gnu/include/string.h \
+ /usr/mipsel-linux-gnu/include/xlocale.h \
+ /usr/mipsel-linux-gnu/include/bits/string.h \
+ /usr/mipsel-linux-gnu/include/bits/string2.h \
+ /usr/mipsel-linux-gnu/include/stdlib.h
+
+/usr/mipsel-linux-gnu/include/stdc-predef.h:
+
+include/event2/event-config.h:
+
+evconfig-private.h:
+
+/usr/mipsel-linux-gnu/include/sys/types.h:
+
+/usr/mipsel-linux-gnu/include/features.h:
+
+/usr/mipsel-linux-gnu/include/sys/cdefs.h:
+
+/usr/mipsel-linux-gnu/include/bits/wordsize.h:
+
+/usr/mipsel-linux-gnu/include/sgidefs.h:
+
+/usr/mipsel-linux-gnu/include/gnu/stubs.h:
+
+/usr/mipsel-linux-gnu/include/gnu/stubs-o32_hard.h:
+
+/usr/mipsel-linux-gnu/include/bits/types.h:
+
+/usr/mipsel-linux-gnu/include/bits/typesizes.h:
+
+/usr/mipsel-linux-gnu/include/time.h:
+
+/usr/lib/gcc-cross/mipsel-linux-gnu/6/include/stddef.h:
+
+/usr/mipsel-linux-gnu/include/endian.h:
+
+/usr/mipsel-linux-gnu/include/bits/endian.h:
+
+/usr/mipsel-linux-gnu/include/bits/byteswap.h:
+
+/usr/mipsel-linux-gnu/include/bits/byteswap-16.h:
+
+/usr/mipsel-linux-gnu/include/sys/select.h:
+
+/usr/mipsel-linux-gnu/include/bits/select.h:
+
+/usr/mipsel-linux-gnu/include/bits/sigset.h:
+
+/usr/mipsel-linux-gnu/include/bits/time.h:
+
+/usr/mipsel-linux-gnu/include/sys/sysmacros.h:
+
+/usr/mipsel-linux-gnu/include/bits/pthreadtypes.h:
+
+strlcpy-internal.h:
+
+include/event2/visibility.h:
+
+/usr/mipsel-linux-gnu/include/string.h:
+
+/usr/mipsel-linux-gnu/include/xlocale.h:
+
+/usr/mipsel-linux-gnu/include/bits/string.h:
+
+/usr/mipsel-linux-gnu/include/bits/string2.h:
+
+/usr/mipsel-linux-gnu/include/stdlib.h:

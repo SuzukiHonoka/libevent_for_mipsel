@@ -1,0 +1,304 @@
+sample/https_client-openssl_hostname_validation.o: \
+ sample/openssl_hostname_validation.c /usr/local/include/openssl/x509v3.h \
+ /usr/local/include/openssl/bio.h /usr/local/include/openssl/e_os2.h \
+ /usr/local/include/openssl/opensslconf.h \
+ /usr/local/include/openssl/opensslv.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/inttypes.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/features.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/cdefs.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stdint.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdint.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/wchar.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/wordsize.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdio.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stddef.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/types.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/typesizes.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_stdio.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/wchar.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/endian.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/endian.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/byteswap.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap-common.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap-16.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sgidefs.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stdarg.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/stdio_lim.h \
+ /usr/local/include/openssl/crypto.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdlib.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/waitflags.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/waitstatus.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/types.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/time.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/select.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/select.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigset.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/time.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/sysmacros.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/alloca.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_clk_tck.h \
+ /usr/local/include/openssl/safestack.h \
+ /usr/local/include/openssl/stack.h /usr/local/include/openssl/ossl_typ.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include-fixed/limits.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include-fixed/syslimits.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/limits.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/posix1_lim.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/local_lim.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/linux/limits.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_local_lim.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/posix2_lim.h \
+ /usr/local/include/openssl/cryptoerr.h \
+ /usr/local/include/openssl/symhacks.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/pthread.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sched.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sched.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/signal.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/setjmp.h \
+ /usr/local/include/openssl/bioerr.h /usr/local/include/openssl/x509.h \
+ /usr/local/include/openssl/buffer.h \
+ /usr/local/include/openssl/buffererr.h /usr/local/include/openssl/evp.h \
+ /usr/local/include/openssl/evperr.h /usr/local/include/openssl/objects.h \
+ /usr/local/include/openssl/obj_mac.h /usr/local/include/openssl/asn1.h \
+ /usr/local/include/openssl/asn1err.h /usr/local/include/openssl/bn.h \
+ /usr/local/include/openssl/bnerr.h \
+ /usr/local/include/openssl/objectserr.h /usr/local/include/openssl/ec.h \
+ /usr/local/include/openssl/ecerr.h /usr/local/include/openssl/rsa.h \
+ /usr/local/include/openssl/rsaerr.h /usr/local/include/openssl/dsa.h \
+ /usr/local/include/openssl/dh.h /usr/local/include/openssl/dherr.h \
+ /usr/local/include/openssl/dsaerr.h /usr/local/include/openssl/sha.h \
+ /usr/local/include/openssl/x509err.h \
+ /usr/local/include/openssl/x509_vfy.h /usr/local/include/openssl/lhash.h \
+ /usr/local/include/openssl/pkcs7.h /usr/local/include/openssl/pkcs7err.h \
+ /usr/local/include/openssl/conf.h /usr/local/include/openssl/conferr.h \
+ /usr/local/include/openssl/x509v3err.h /usr/local/include/openssl/ssl.h \
+ /usr/local/include/openssl/comp.h /usr/local/include/openssl/comperr.h \
+ /usr/local/include/openssl/pem.h /usr/local/include/openssl/pemerr.h \
+ /usr/local/include/openssl/hmac.h /usr/local/include/openssl/async.h \
+ /usr/local/include/openssl/asyncerr.h /usr/local/include/openssl/ct.h \
+ /usr/local/include/openssl/cterr.h /usr/local/include/openssl/sslerr.h \
+ /usr/local/include/openssl/ssl2.h /usr/local/include/openssl/ssl3.h \
+ /usr/local/include/openssl/tls1.h /usr/local/include/openssl/dtls1.h \
+ /usr/local/include/openssl/srtp.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/string.h \
+ sample/openssl_hostname_validation.h sample/hostcheck.h
+
+/usr/local/include/openssl/x509v3.h:
+
+/usr/local/include/openssl/bio.h:
+
+/usr/local/include/openssl/e_os2.h:
+
+/usr/local/include/openssl/opensslconf.h:
+
+/usr/local/include/openssl/opensslv.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/inttypes.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/features.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/cdefs.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stdint.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdint.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/wchar.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/wordsize.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdio.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stddef.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/types.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/typesizes.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_stdio.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/wchar.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/endian.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/endian.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/byteswap.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap-common.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap-16.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sgidefs.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stdarg.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/stdio_lim.h:
+
+/usr/local/include/openssl/crypto.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdlib.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/waitflags.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/waitstatus.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/types.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/time.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/select.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/select.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigset.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/time.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/sysmacros.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/alloca.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_clk_tck.h:
+
+/usr/local/include/openssl/safestack.h:
+
+/usr/local/include/openssl/stack.h:
+
+/usr/local/include/openssl/ossl_typ.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include-fixed/limits.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include-fixed/syslimits.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/limits.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/posix1_lim.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/local_lim.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/linux/limits.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_local_lim.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/posix2_lim.h:
+
+/usr/local/include/openssl/cryptoerr.h:
+
+/usr/local/include/openssl/symhacks.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/pthread.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sched.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sched.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/signal.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/setjmp.h:
+
+/usr/local/include/openssl/bioerr.h:
+
+/usr/local/include/openssl/x509.h:
+
+/usr/local/include/openssl/buffer.h:
+
+/usr/local/include/openssl/buffererr.h:
+
+/usr/local/include/openssl/evp.h:
+
+/usr/local/include/openssl/evperr.h:
+
+/usr/local/include/openssl/objects.h:
+
+/usr/local/include/openssl/obj_mac.h:
+
+/usr/local/include/openssl/asn1.h:
+
+/usr/local/include/openssl/asn1err.h:
+
+/usr/local/include/openssl/bn.h:
+
+/usr/local/include/openssl/bnerr.h:
+
+/usr/local/include/openssl/objectserr.h:
+
+/usr/local/include/openssl/ec.h:
+
+/usr/local/include/openssl/ecerr.h:
+
+/usr/local/include/openssl/rsa.h:
+
+/usr/local/include/openssl/rsaerr.h:
+
+/usr/local/include/openssl/dsa.h:
+
+/usr/local/include/openssl/dh.h:
+
+/usr/local/include/openssl/dherr.h:
+
+/usr/local/include/openssl/dsaerr.h:
+
+/usr/local/include/openssl/sha.h:
+
+/usr/local/include/openssl/x509err.h:
+
+/usr/local/include/openssl/x509_vfy.h:
+
+/usr/local/include/openssl/lhash.h:
+
+/usr/local/include/openssl/pkcs7.h:
+
+/usr/local/include/openssl/pkcs7err.h:
+
+/usr/local/include/openssl/conf.h:
+
+/usr/local/include/openssl/conferr.h:
+
+/usr/local/include/openssl/x509v3err.h:
+
+/usr/local/include/openssl/ssl.h:
+
+/usr/local/include/openssl/comp.h:
+
+/usr/local/include/openssl/comperr.h:
+
+/usr/local/include/openssl/pem.h:
+
+/usr/local/include/openssl/pemerr.h:
+
+/usr/local/include/openssl/hmac.h:
+
+/usr/local/include/openssl/async.h:
+
+/usr/local/include/openssl/asyncerr.h:
+
+/usr/local/include/openssl/ct.h:
+
+/usr/local/include/openssl/cterr.h:
+
+/usr/local/include/openssl/sslerr.h:
+
+/usr/local/include/openssl/ssl2.h:
+
+/usr/local/include/openssl/ssl3.h:
+
+/usr/local/include/openssl/tls1.h:
+
+/usr/local/include/openssl/dtls1.h:
+
+/usr/local/include/openssl/srtp.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/string.h:
+
+sample/openssl_hostname_validation.h:
+
+sample/hostcheck.h:

@@ -1,0 +1,150 @@
+test/regress-tinytest.o: test/tinytest.c \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdio.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/features.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/cdefs.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stddef.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/types.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/wordsize.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/typesizes.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_stdio.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/wchar.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/wchar.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/endian.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/endian.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/byteswap.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap-common.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap-16.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sgidefs.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stdarg.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/stdio_lim.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdlib.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/waitflags.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/waitstatus.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/types.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/time.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/select.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/select.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigset.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/time.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/sysmacros.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/alloca.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/string.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/assert.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/wait.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/signal.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/signum.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/siginfo.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigaction.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigcontext.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigstack.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigthread.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/unistd.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/posix_opt.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_posix_opt.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/environments.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/confname.h \
+ /home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/getopt.h \
+ test/tinytest.h test/tinytest_macros.h
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdio.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/features.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_config.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/cdefs.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stddef.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/types.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/wordsize.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/typesizes.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_stdio.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/wchar.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/wchar.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/pthreadtypes.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/endian.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/endian.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/byteswap.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap-common.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/byteswap-16.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sgidefs.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/lib/gcc/mipsel-linux-uclibc/7.4.0/include/stdarg.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/stdio_lim.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/stdlib.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/waitflags.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/waitstatus.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/types.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/time.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/select.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/select.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigset.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/time.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/sysmacros.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/alloca.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/string.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/assert.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/sys/wait.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/signal.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/signum.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/siginfo.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigaction.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigcontext.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigstack.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/sigthread.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/unistd.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/posix_opt.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/uClibc_posix_opt.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/environments.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/confname.h:
+
+/home/starx/Padavan_Toolchain3.4.x_EXTRA/mipsel-linux-uclibc/sysroot/usr/include/bits/getopt.h:
+
+test/tinytest.h:
+
+test/tinytest_macros.h:
